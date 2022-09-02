@@ -29,6 +29,10 @@ Cycle Time: É um tempo de ciclo entre quaisquer fases. Exemplo: Cycle Time de D
 
 ![](./img/leadtime2.jpg)
 
+## Retrospectiva
+
+![](./img/retrospectiva.png)
+
 ## Links :
 
 https://blogdocaze.com.br/2021/04/15/leadtime-cycletime-diferenca/
