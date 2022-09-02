@@ -45,6 +45,19 @@ Você pode informar no link abaixo ?
 
 https://ideaboardz.com/for/Coding%20Dojo/4626243
 
+## Como subir
+
+```cmd
+
+git add --all
+git commit -m "{DESCRICAO_CLARA}"
+
+git push origin main
+
+```
+
+
+
 ## Links
 
 https://www.devmedia.com.br/o-que-e-o-coding-dojo/30517
