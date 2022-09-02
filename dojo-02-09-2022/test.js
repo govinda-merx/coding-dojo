@@ -48,12 +48,21 @@ data = [
 
 console.log(data);
 
+var total;
+var d = data[0]
+
+if(d.Status == "Entregue")
+{
+    total += d.Vamos_fazer + d.Construindo + d.Construido + d.Avaliando + d.Avaliado + d.Entregando;
+}
+
+
 // setup test helpers
 mocha.setup('bdd');
 
 // your tests here
 describe('test suite', function() {
     it('should work', function() {
-        chai.assert(true);
+        chai.assert(total == 24);
     });
 });
