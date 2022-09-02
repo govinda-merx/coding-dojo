@@ -2,6 +2,20 @@
 
 Dojos realizados na Merx ao longo dos últimos anos.
 
+
+```console
+
+   _       ___ ______ __  _____     ___    ___   ____  ___       __
+  | |     /  _|      |  |/ ___/    |   \  /   \ |    |/   \     |  |
+  | |    /  [_|      |_ (   \_     |    \|     ||__  |     |    |  |
+  | |___|    _|_|  |_| \|\__  |    |  D  |  O  |__|  |  O  |    |__|
+  |     |   [_  |  |     /  \ |    |     |     /  |  |     |     __
+  |     |     | |  |     \    |    |     |     \  `  |     |    |  |
+  |_____|_____| |__|      \___|    |_____|\___/ \____j\___/     |__|
+
+
+```
+
 ## O que é Coding Dojo
 
 O Coding Dojo é um ambiente seguro para testar novas ideias, promover o networking e compartilhamento de ideias entre os membros da equipe. É muito comum empresas promoverem Dojos abertos. Dessa forma a empresa pode conhecer profissionais que possam se adequar ao seu ambiente e os profissionais também tem a oportunidade de conhecer o ambiente dessas empresas.
@@ -55,8 +69,6 @@ git commit -m "{DESCRICAO_CLARA}"
 git push origin main
 
 ```
-
-
 
 ## Links
 
