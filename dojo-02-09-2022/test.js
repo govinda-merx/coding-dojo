@@ -8,9 +8,7 @@ data = [
     "Construido": 12,
     "Avaliando": 2,
     "Avaliado": 1,
-    "Entregando": 1,
-    "Data_de_Criacao": "2022-01-01",
-    "Data_de_Entrega": "2022-01-25  "
+    "Entregando": 1
     }, 
     {
     "id": 2,
@@ -21,9 +19,7 @@ data = [
     "Construido": 10,
     "Avaliando": 1,
     "Avaliado": 2,
-    "Entregando": 1,
-    "Data_de_Criacao": "2022-01-01",
-    "Data_de_Entrega": "2022-01-23"
+    "Entregando": 1
     }, 
     {
     "id": 3,
@@ -34,9 +30,7 @@ data = [
     "Construido": 18,
     "Avaliando": 2,
     "Avaliado": 1,
-    "Entregando": 1,
-    "Data_de_Criacao": "2022-01-01",
-    "Data_de_Entrega": "2022-02-03"
+    "Entregando": 1
     },
     {
     "id": 4,
@@ -47,9 +41,7 @@ data = [
     "Construido": 13,
     "Avaliando": 1,
     "Avaliado": 1,
-    "Entregando": 1,
-    "Data_de_Criacao": "2022-01-01",
-    "Data_de_Entrega": "2022-01-24"
+    "Entregando": 1
     },
 
 ];
