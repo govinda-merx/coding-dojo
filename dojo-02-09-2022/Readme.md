@@ -6,7 +6,7 @@
 * Calcular nosso Cicle Time
 * Calcular nosso Customer Lead Time
 
-
+## Como calcular Lead Time
 
 Para se calcular o Custumer Lead Time, utilizaremos a status "Entregue", pois os itens nela já se encontram finalizados. 
 

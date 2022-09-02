@@ -31,12 +31,17 @@ Obviamente o conhecimento obtido durante a execução do Coding Dojo é utilizad
 A realização de um Coding Dojo bem sucedido depende e fortalece alguns valores em todos os profissionais envolvidos. Entre eles, podemos destacar alguns:
 
 Cooperação: A solução para o problema proposto é construída com a cooperação de todos os participantes, o que cria um ambiente colaborativo;
+
 Participação: Todos os participantes participam da resolução do problema, o que cria um sentimento de igualdade entre todos os envolvidos. Não existem opiniões mais “importantes”;
+
 Coragem: É necessário coragem para sair da zona de conforto e enfrentar um desafio. O ambiente do Coding Dojo propicia que todos desenvolvam essa característica, trabalhando em projetos que permitem que aconteçam erros, sem estar diretamente envolvido na rotina normal de um projeto (prazo, custo, etc);
+
 Respeito: Todos os participantes devem respeitar a solução proposta pelos demais, mesmo conhecendo maneiras diferentes de resolver o problema. Como o intuito é aprender, o respeito pelo tempo de cada participante é fundamental;
+
 Simplicidade: O Coding Dojo serve para compartilhar conhecimentos e experiências entre os participantes. Como cada participante pode estar em um nível técnico diferente, é importante que seja mantida a simplicidade tanto no problema composto como na solução implementada, de forma que todos consigam entender exatamente o que está sendo feito.
 
 ## Retrospectiva
+
 Ao final do Coding Dojo, normalmente, os participantes realizam uma retrospectiva do evento.
 
 Nessa retrospectiva, que pode ser realizada utilizando diversas técnicas, de maneira geral são respondidas três perguntas básicas:
