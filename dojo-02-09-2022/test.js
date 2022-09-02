@@ -8,7 +8,9 @@ data = [
     "Construido": 12,
     "Avaliando": 2,
     "Avaliado": 1,
-    "Entregando": 1
+    "Entregando": 1,
+    "Data_de_Criacao": "2022-01-01",
+    "Data_de_Entrega": "2022-01-25  "
     }, 
     {
     "id": 2,
@@ -19,7 +21,9 @@ data = [
     "Construido": 10,
     "Avaliando": 1,
     "Avaliado": 2,
-    "Entregando": 1
+    "Entregando": 1,
+    "Data_de_Criacao": "2022-01-01",
+    "Data_de_Entrega": "2022-01-23"
     }, 
     {
     "id": 3,
@@ -30,7 +34,9 @@ data = [
     "Construido": 18,
     "Avaliando": 2,
     "Avaliado": 1,
-    "Entregando": 1
+    "Entregando": 1,
+    "Data_de_Criacao": "2022-01-01",
+    "Data_de_Entrega": "2022-02-03"
     },
     {
     "id": 4,
@@ -41,8 +47,11 @@ data = [
     "Construido": 13,
     "Avaliando": 1,
     "Avaliado": 1,
-    "Entregando": 1
-        }
+    "Entregando": 1,
+    "Data_de_Criacao": "2022-01-01",
+    "Data_de_Entrega": "2022-01-24"
+    },
+
 ];
 
 console.log(data);
@@ -51,14 +60,7 @@ console.log(data);
 mocha.setup('bdd');
 
 // your tests here
-describe('test suiteqqqqq', function() {
-    it('should work', function() {
-        chai.assert(true);
-    });
-});
-
-// your tests here
-describe('test suiteqqqqq', function() {
+describe('test suite', function() {
     it('should work', function() {
         chai.assert(true);
     });
